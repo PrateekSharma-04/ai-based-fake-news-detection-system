@@ -1,0 +1,10 @@
+node_modules
+.next
+tsconfig.tsbuildinfo
+
+venv
+.venv
+__pycache__
+*.pyc
+
+.env
